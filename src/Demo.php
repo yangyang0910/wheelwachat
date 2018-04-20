@@ -17,4 +17,8 @@ class Demo
     public function pullDemo(){
         return "String";
     }
+
+    public function gitAbc(){
+        return "gitAbc";
+    }
 }
