@@ -1,12 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: apple
- * Date: 2018/4/20
- * Time: 下午12:01
- */
-
-namespace yangyang0918;
+namespace Wechat;
 
 class Demo
 {
