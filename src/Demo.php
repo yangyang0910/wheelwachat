@@ -13,4 +13,8 @@ class Demo
     public function pushDemo(){
         return "String";
     }
+
+    public function pullDemo(){
+        return "String";
+    }
 }
