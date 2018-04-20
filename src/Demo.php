@@ -10,7 +10,7 @@ namespace think;
 
 class Demo
 {
-    public function getDemo(){
+    public function pushDemo(){
         return "String";
     }
 }
