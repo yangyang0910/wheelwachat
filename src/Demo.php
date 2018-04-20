@@ -21,4 +21,8 @@ class Demo
     public function gitAbc(){
         return "gitAbc";
     }
+
+    public function gitAbcd(){
+        return "gitAbc";
+    }
 }
