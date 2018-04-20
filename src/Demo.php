@@ -6,7 +6,7 @@
  * Time: 下午12:01
  */
 
-namespace think;
+namespace yangyang0918;
 
 class Demo
 {
